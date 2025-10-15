@@ -44,7 +44,7 @@ const participants = [
     { name: "Mandala Vishnu Vardhan Goud", roll: "23r21a6799", year: "Third", branch: "CSD-B", github: "", linkedin: "" },
     { name: "N Saimanikanta Reddy", roll: "23q91a6736", year: "Third", branch: "CSD", github: "", linkedin: "" },
     { name: "N.Himasri", roll: "23R21A6741", year: "Third", branch: "CSD", github: "", linkedin: "" },
-    { name: "SARIKA PABBA", roll: "23R21A67B0", year: "Third", branch: "CSD-B", github: "", linkedin: "" },
+    { name: "SARIKA PABBA", roll: "23R21A67B0", year: "Third", branch: "CSD-B", github: "https://github.com/Sarika0105", linkedin: "https://www.linkedin.com/in/sarika-pabba-1aab7a32a/" },
     { name: "K.Sathvik", roll: "24r21a05hr", year: "Second", branch: "Cse -f", github: "", linkedin: "" },
     { name: "KARPE VAISHNAVI", roll: "23R21A6792", year: "Third", branch: "CSD-B", github: "", linkedin: "" },
     { name: "Sharon Lilly", roll: "24R21A05KK", year: "Second", branch: "CSE", github: "", linkedin: "" },
