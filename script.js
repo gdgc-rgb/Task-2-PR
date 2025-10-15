@@ -31,7 +31,7 @@ const participants = [
     { name: "V Ram Charan", roll: "24R21A6765", year: "Second", branch: "CSD", github: "", linkedin: "" },
     { name: "ch.vikasReddy", roll: "23q91a6761", year: "Third", branch: "cse-ds", github: "", linkedin: "" },
     { name: "Bobbili Chandana sri", roll: "23R21A0584", year: "Third", branch: "CSE-B", github: "", linkedin: "" },
-    { name: "K.Joshi Rakesh", roll: "24r21a6622", year: "Second", branch: "CSM", github: "", linkedin: "" },
+    { name: "K.Joshi Rakesh", roll: "24r21a6622", year: "Second", branch: "CSM", github: "https/github.com/joshirakesh07", linkedin: "" },
     { name: "K. Sharath Chandra", roll: "24R21A05KG", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "Golla Dheeraj Carey", roll: "23R21A6682", year: "Third", branch: "CSM", github: "", linkedin: "" },
     { name: "Karthik Raparthi", roll: "24R21A6756", year: "Second", branch: "CSD", github: "", linkedin: "" },
