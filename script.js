@@ -83,7 +83,7 @@ const participants = [
     { name: "MANGAJI DURGA PRASAD", roll: "23R21A12F9", year: "Third", branch: "IT", github: "", linkedin: "" },
     { name: "Sahithi Gaddoju", roll: "23R21A6716", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
     { name: "CH Nidhi Reddy", roll: "24R21A6613", year: "Second", branch: "CSM", github: "", linkedin: "" },
-    { name: "Rathnam Sai Nethra", roll: "23R21A66B7", year: "Third", branch: "CSM-B", github: "", linkedin: "" },
+    { name: "Rathnam Sai Nethra", roll: "23R21A66B7", year: "Third", branch: "CSM-B", github: "https://github.com/Rathnam65", linkedin: "www.linkedin.com/in/sai-nethra-rathnam-0606532a1" },
     { name: "Vidhyullatha vadla", roll: "23R21A05C6", year: "Third", branch: "Computer science and engineering", github: "", linkedin: "" },
     { name: "TIPIREDDY MANOGNYA", roll: "24R21A05JD", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "Likhith Nagisetti", roll: "24R21A05HZ", year: "Second", branch: "CSE", github: "", linkedin: "" },
