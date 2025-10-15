@@ -80,7 +80,7 @@ const participants = [
     { name: "DOGUPARTHI MONIKA", roll: "23r21a6715", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
     { name: "Tejasri Ganga. K", roll: "23R21A6760", year: "Third", branch: "CSD", github: "", linkedin: "" },
     { name: "Gariga Aadesh", roll: "24R21A05BG", year: "Second", branch: "CSE", github: "", linkedin: "" },
-    { name: "MANGAJI DURGA PRASAD", roll: "23R21A12F9", year: "Third", branch: "IT", github: "", linkedin: "" },
+    { name: "MANGAJI DURGA PRASAD", roll: "23R21A12F9", year: "Third", branch: "IT", github: "https://github.com/Durgaprasad03075", linkedin: "www.linkedin.com/in/durga-prasad-6a4151350" },
     { name: "Sahithi Gaddoju", roll: "23R21A6716", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
     { name: "CH Nidhi Reddy", roll: "24R21A6613", year: "Second", branch: "CSM", github: "", linkedin: "" },
     { name: "Rathnam Sai Nethra", roll: "23R21A66B7", year: "Third", branch: "CSM-B", github: "", linkedin: "" },
