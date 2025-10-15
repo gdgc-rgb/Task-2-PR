@@ -24,7 +24,7 @@ const participants = [
     { name: "BUYANI AKSHARA", roll: "24R21A05H1", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "S Manishankar", roll: "24r21a6760", year: "Second", branch: "DATA SCIENCE", github: "", linkedin: "" },
     { name: "MALLAM TEJA", roll: "24r25a6705", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
-    { name: "Kalva Venkat", roll: "24r21a0594", year: "Second", branch: "Cse", github: "", linkedin: "" },
+    { name: "Kalva Venkat", roll: "24r21a0594", year: "Second", branch: "Cse", github: "https://github.com/kalvavenkat", linkedin: "https://www.linkedin.com/in/kalva-venkat-588840336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
     { name: "Maddineni Sri Sai Deepak", roll: "23R21A6728", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
     { name: "Patharlapalli Nitya Sri", roll: "24R21A05AA", year: "Second", branch: "CSE-B", github: "", linkedin: "" },
     { name: "Vishwanath Yashaswi", roll: "24R21A05JJ", year: "Second", branch: "CSE-F", github: "", linkedin: "" },
