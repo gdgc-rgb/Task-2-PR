@@ -73,7 +73,8 @@ const participants = [
     { name: "ASHWITH REDDY BONGARAM", roll: "24R21A0575", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "N. Lakshmi Narayana", roll: "24R21A05A3", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "Chakka Praneeth", roll: "23r21a0585", year: "Third", branch: "CSE", github: "", linkedin: "" },
-    { name: "M.Likhitha", roll: "23R21A6736", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
+    { name: "M.Likhitha", roll: "23R21A6736", year: "Third", branch: "CSD-A", github: "https://github.com/likitha-m", linkedin: "www.linkedin.com/in/
+likhitha-m-0612y2004" },
     { name: "S.REKHA SAI SRI", roll: "23R21A6756", year: "Third", branch: "Data science (CSD-A)", github: "", linkedin: "" },
     { name: "MUTYALA SRI KRISHNA BALAJI", roll: "23R21A6740", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
     { name: "Y.LakshmiLasya Reddy", roll: "23R21A05C9", year: "Third", branch: "CSE", github: "", linkedin: "" },
