@@ -78,7 +78,7 @@ const participants = [
     { name: "MUTYALA SRI KRISHNA BALAJI", roll: "23R21A6740", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
     { name: "Y.LakshmiLasya Reddy", roll: "23R21A05C9", year: "Third", branch: "CSE", github: "", linkedin: "" },
     { name: "DOGUPARTHI MONIKA", roll: "23r21a6715", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
-    { name: "Tejasri Ganga. K", roll: "23R21A6760", year: "Third", branch: "CSD", github: "", linkedin: "" },
+    { name: "Tejasri Ganga. K", roll: "23R21A6760", year: "Third", branch: "CSD", github: "https://share.google/wcN6turBDZNx3MRpn", linkedin: "https://www.linkedin.com/in/tejasri-ganga-kuruva-a1aba7290" },
     { name: "Gariga Aadesh", roll: "24R21A05BG", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "MANGAJI DURGA PRASAD", roll: "23R21A12F9", year: "Third", branch: "IT", github: "", linkedin: "" },
     { name: "Sahithi Gaddoju", roll: "23R21A6716", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
