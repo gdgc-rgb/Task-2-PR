@@ -122,6 +122,7 @@ const participants = [
     { name: "Nitesh sirvi", roll: "23R21A05B4", year: "Third", branch: "CSE", github: "", linkedin: "" },
     { name: "Md. Ridhai kounine", roll: "24R21A66G9", year: "Second", branch: "CSM -C", github: "", linkedin: "" },
     { name: "GUGULOTH ADITHYA JADHAV", roll: "24R21A6619", year: "Second", branch: "CSM-A", github: "", linkedin: "" },
+    { name: "Pranav", roll: "24r21a05ad", year: "Second", branch: "CSE", github: "https://github.com/PranavChandra07", linkedin: "https://www.linkedin.com/in/pranav-chandra-kodali-3566b033b/" },
     { name: "Aleti Vaishnavi Reddy", roll: "24R21A05GU", year: "Second", branch: "CSE-F", github: "", linkedin: "" }
 ];
 
