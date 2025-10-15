@@ -90,7 +90,7 @@ const participants = [
     { name: "Sathish kurre", roll: "24R25A6610", year: "Third", branch: "CSM-B", github: "", linkedin: "" },
     { name: "Lingisetti V V N S Ramakrishna", roll: "24R25A6611", year: "Third", branch: "CSM", github: "", linkedin: "" },
     { name: "Prasanna Reddy", roll: "24R21A05HP", year: "Second", branch: "CSE", github: "", linkedin: "" },
-    { name: "V. Sandhyana Seethal", roll: "24R21A05AT", year: "Second", branch: "CSE", github: "", linkedin: "" },
+    { name: "V. Sandhyana Seethal", roll: "24R21A05AT", year: "Second", branch: "CSE", github: "https://github.com/sandhya-2006-web", linkedin: "www.linkedin.com/in/sandhyana-vallu-393978386" },
     { name: "B.Siri", roll: "24R21A05K1", year: "Second", branch: "CSE-G", github: "", linkedin: "" },
     { name: "Aarthi reddy", roll: "23r21a6667", year: "Third", branch: "Csm", github: "", linkedin: "" },
     { name: "Mahathi Somasetty", roll: "24R21A05J9", year: "Second", branch: "CSE-F", github: "", linkedin: "" },
