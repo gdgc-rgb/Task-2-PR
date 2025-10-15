@@ -6,7 +6,7 @@
 // Format: { name: "Your Name", roll: "Roll No", year: "Year", branch: "Branch", github: "YOUR_GITHUB_URL", linkedin: "YOUR_LINKEDIN_URL" }
 
 const participants = [
-    { name: "Tanish Nagari", roll: "23R21A04G7", year: "Third", branch: "ECE", github: "", linkedin: "" },
+    { name: "Tanish Nagari", roll: "23R21A04G7", year: "Third", branch: "ECE", github: "https://github.com/Tanish-Nagari", linkedin: "https://www.linkedin.com/in/tanish-nagari-490763319/" },
     { name: "PULLURI SHIVAMANI", roll: "24R21A6754", year: "Second", branch: "CSD-A", github: "", linkedin: "" },
     { name: "Samudrawad Varun", roll: "24R21A6758", year: "Second", branch: "CSD-A", github: "", linkedin: "" },
     { name: "CHAVALI PINAKI SRI SIVARAM", roll: "24R21A6709", year: "Second", branch: "CSD-A", github: "", linkedin: "" },
