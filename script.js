@@ -7,7 +7,7 @@
 
 const participants = [
     { name: "Tanish Nagari", roll: "23R21A04G7", year: "Third", branch: "ECE", github: "", linkedin: "" },
-    { name: "PULLURI SHIVAMANI", roll: "24R21A6754", year: "Second", branch: "CSD-A", github: "", linkedin: "" },
+    { name: "PULLURI SHIVAMANI", roll: "24R21A6754", year: "Second", branch: "CSD-A", github: "", linkedin: www.linkedin.com/in/pulluri-shivamani-551466345"" },
     { name: "Samudrawad Varun", roll: "24R21A6758", year: "Second", branch: "CSD-A", github: "", linkedin: "" },
     { name: "CHAVALI PINAKI SRI SIVARAM", roll: "24R21A6709", year: "Second", branch: "CSD-A", github: "", linkedin: "" },
     { name: "Katukam Sunayana", roll: "24R21A05HH", year: "Second", branch: "CSE", github: "", linkedin: "" },
