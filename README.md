@@ -1,5 +1,6 @@
 # 🎃 Hacktoberfest 2025 - Participant Directory
 
+Note: The PR's will be verified merged soon!!
 Welcome to the Hacktoberfest 2025 participant directory! This is a simple static website showcasing all participants.
 
 ## 🚀 How to Add Your Links
