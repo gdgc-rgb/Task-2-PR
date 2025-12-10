@@ -122,8 +122,8 @@ const participants = [
     { name: "Nitesh sirvi", roll: "23R21A05B4", year: "Third", branch: "CSE", github: "", linkedin: "" },
     { name: "Md. Ridhai kounine", roll: "24R21A66G9", year: "Second", branch: "CSM -C", github: "", linkedin: "" },
     { name: "GUGULOTH ADITHYA JADHAV", roll: "24R21A6619", year: "Second", branch: "CSM-A", github: "", linkedin: "" },
-    { name: "Aleti Vaishnavi Reddy", roll: "24R21A05GU", year: "Second", branch: "CSE-F", github: "", linkedin: "" }
-        { name: "AJAGATHI TEJA", roll: "23R21A6721", year: "Third", branch: "CSD-A", github: "https://github.com/tejaj2005", linkedin: "https://www.linkedin.com/in/teja-j-4873b21aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" }
+    { name: "Aleti Vaishnavi Reddy", roll: "24R21A05GU", year: "Second", branch: "CSE-F", github: "", linkedin: "" },
+    { name: "AJAGATHI TEJA", roll: "23R21A6721", year: "Third", branch: "CSD-A", github: "https://github.com/tejaj2005", linkedin: "https://www.linkedin.com/in/teja-j-4873b21aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" }
 
 ];
 
