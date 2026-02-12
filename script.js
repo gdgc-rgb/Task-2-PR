@@ -56,7 +56,7 @@ const participants = [
     { name: "Biyyani Hari venkata Gopal", roll: "23R21A0583", year: "Third", branch: "CSE", github: "", linkedin: "" },
     { name: "Ankitha Kole", roll: "24R21A05KH", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "A.Likhitha", roll: "23R21A6702", year: "Third", branch: "Csd", github: "", linkedin: "" },
-    { name: "K.Sarayu", roll: "24R25A6703", year: "Third", branch: "CSD-A", github: "", linkedin: "" },
+    { name: "K.Sarayu", roll: "24R25A6703", year: "Third", branch: "CSD-A", github: "https://github.com/Sarayu42", linkedin: "" },
     { name: "YELLA SHIVAMRUTH REDDY", roll: "23R21A05Z1", year: "Third", branch: "Computer Science Engineering", github: "", linkedin: "" },
     { name: "Kanukuntla Srujan", roll: "23r21a6724", year: "Third", branch: "CSD", github: "", linkedin: "" },
     { name: "V.Medhashwi", roll: "24r21a05ct", year: "Second", branch: "Cse", github: "", linkedin: "" },
