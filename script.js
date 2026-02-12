@@ -95,7 +95,7 @@ const participants = [
     { name: "Aarthi reddy", roll: "23r21a6667", year: "Third", branch: "Csm", github: "", linkedin: "" },
     { name: "Mahathi Somasetty", roll: "24R21A05J9", year: "Second", branch: "CSE-F", github: "", linkedin: "" },
     { name: "Yasam Spandana", roll: "24R21A05JM", year: "Second", branch: "Cse", github: "", linkedin: "" },
-    { name: "Manne Anugna", roll: "23R21A05A7", year: "Third", branch: "CSE-B", github: "", linkedin: "" },
+    { name: "Manne Anugna", roll: "23R21A05A7", year: "Third", branch: "CSE-B", github: "https://github.com/Anugna1234", linkedin: "https://www.linkedin.com/in/anugna-manne-7826b1291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " },
     { name: "Maduri Varshini", roll: "24R21A05HT", year: "Second", branch: "Cse", github: "", linkedin: "" },
     { name: "Katuri Ramya", roll: "24R21A05HJ", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "Ch.koushik", roll: "23R21A0586", year: "Third", branch: "CSE-B", github: "", linkedin: "" },
