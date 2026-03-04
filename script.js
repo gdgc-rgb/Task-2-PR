@@ -106,7 +106,7 @@ const participants = [
     { name: "Surampudi Shashank Sai", roll: "22R21A6654", year: "Fourth", branch: "CSM", github: "", linkedin: "" },
     { name: "Divyateja", roll: "24R21A05HD", year: "Second", branch: "CSE", github: "", linkedin: "" },
     { name: "CHEETIRALA LAKSHMI KRUTHIKA", roll: "24R21A05B6", year: "Second", branch: "CSE", github: "", linkedin: "" },
-    { name: "Bejawada shalem raju", roll: "23r21a66d3", year: "Third", branch: "Csm-c", github: "", linkedin: "" },
+    { name: "Bejawada shalem raju", roll: "23r21a66d3", year: "Third", branch: "Csm-c", github: "https://github.com/shalemraju1", linkedin: "http://www.linkedin.com/in/shalem-raju-bejawada-170b40290" },
     { name: "M.Harshith", roll: "24r21a05kq", year: "Second", branch: "Cse", github: "", linkedin: "" },
     { name: "NAINI VNITH REDDY", roll: "24R21A5KU", year: "Second", branch: "CSE-G", github: "", linkedin: "" },
     { name: "Anirudh Reddy", roll: "24R25A6614", year: "Third", branch: "CSM", github: "", linkedin: "" },
