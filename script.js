@@ -105,7 +105,7 @@ const participants = [
     { name: "Sravanthi Samurothu", roll: "23R21A12H6", year: "Third", branch: "IT-C", github: "", linkedin: "" },
     { name: "Surampudi Shashank Sai", roll: "22R21A6654", year: "Fourth", branch: "CSM", github: "", linkedin: "" },
     { name: "Divyateja", roll: "24R21A05HD", year: "Second", branch: "CSE", github: "", linkedin: "" },
-    { name: "CHEETIRALA LAKSHMI KRUTHIKA", roll: "24R21A05B6", year: "Second", branch: "CSE", github: "", linkedin: "" },
+    { name: "CHEETIRALA LAKSHMI KRUTHIKA", roll: "24R21A05B6", year: "Second", branch: "CSE", github: "https://github.com/kruthikacheetirala", linkedin: "www.linkedin.com/in/kruthika-cheetirala-82818a369" },
     { name: "Bejawada shalem raju", roll: "23r21a66d3", year: "Third", branch: "Csm-c", github: "", linkedin: "" },
     { name: "M.Harshith", roll: "24r21a05kq", year: "Second", branch: "Cse", github: "", linkedin: "" },
     { name: "NAINI VNITH REDDY", roll: "24R21A5KU", year: "Second", branch: "CSE-G", github: "", linkedin: "" },
